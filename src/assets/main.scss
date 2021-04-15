@@ -1,0 +1,8 @@
+// Customizations Here (Optional)
+$beige-lighter: #EFF0EB;
+
+$table-row-hover-background-color: $beige-lighter;
+$table-striped-row-even-hover-background-color: $beige-lighter;
+
+// Bulma Import
+@import '~bulma';
