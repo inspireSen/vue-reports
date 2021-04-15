@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1 class="is-size-4 mb-2">
-      Report 6: State with Highest Volume for each Category
+      Report 6
     </h1>
 
     <div class="block">
@@ -65,7 +65,7 @@ export default {
 
   created() {
     this.$api
-      .get("report6/months")
+      .get("report6/months.json")
       .then((resp) => {
         this.months = resp.data;
       })
@@ -85,19 +85,19 @@ export default {
       }
       this.monthVolumeDataset = [];
       this.loading = true;
-      this.$api
-        .get("report6/volumeByMonth", {
-          params: { yearMonth: this.selectedYearMonth },
-        })
-        .then((resp) => {
-          this.monthVolumeDataset = resp.data;
-        })
-        .catch((error) => {
-          console.log(error);
-        })
-        .finally(() => {
-          this.loading = false;
-        });
+      // this.$api
+      //   .get("report6/volumeByMonth", {
+      //     params: { yearMonth: this.selectedYearMonth },
+      //   })
+      //   .then((resp) => {
+      //     this.monthVolumeDataset = resp.data;
+      //   })
+      //   .catch((error) => {
+      //     console.log(error);
+      //   })
+      //   .finally(() => {
+      //     this.loading = false;
+      //   });
     },
   },
 };

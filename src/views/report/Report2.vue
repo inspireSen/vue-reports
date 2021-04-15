@@ -49,7 +49,7 @@ export default {
   created() {
     this.loading = true;
     this.$api
-      .get("report2")
+      .get("report2.json")
       .then((resp) => {
         this.categories = resp.data;
       })

@@ -1,0 +1,122 @@
+[
+  {
+    "DiffActualPredicated": 17649.3950,
+    "PID": 25244,
+    "ProductName": "Supbanantor",
+    "RetailPrice": 8792.66,
+    "TotalUnitsEverSold": 99,
+    "TotalUnitsSoldOnDiscount": 13
+  },
+  {
+    "DiffActualPredicated": 11237.5550,
+    "PID": 25241,
+    "ProductName": "Rapsipower",
+    "RetailPrice": 6689.02,
+    "TotalUnitsEverSold": 106,
+    "TotalUnitsSoldOnDiscount": 7
+  },
+  {
+    "DiffActualPredicated": 9694.9950,
+    "PID": 25075,
+    "ProductName": "Lompickex",
+    "RetailPrice": 7041.13,
+    "TotalUnitsEverSold": 97,
+    "TotalUnitsSoldOnDiscount": 6
+  },
+  {
+    "DiffActualPredicated": 9375.3500,
+    "PID": 25209,
+    "ProductName": "Upmunantor",
+    "RetailPrice": 3906.38,
+    "TotalUnitsEverSold": 114,
+    "TotalUnitsSoldOnDiscount": 10
+  },
+  {
+    "DiffActualPredicated": -5368.4900,
+    "PID": 25131,
+    "ProductName": "Klisipar",
+    "RetailPrice": 6183.28,
+    "TotalUnitsEverSold": 109,
+    "TotalUnitsSoldOnDiscount": 11
+  },
+  {
+    "DiffActualPredicated": -5668.8550,
+    "PID": 25055,
+    "ProductName": "Bareredgover",
+    "RetailPrice": 8495.17,
+    "TotalUnitsEverSold": 110,
+    "TotalUnitsSoldOnDiscount": 2
+  },
+  {
+    "DiffActualPredicated": -6432.1875,
+    "PID": 18798,
+    "ProductName": "Barvenedar",
+    "RetailPrice": 468.53,
+    "TotalUnitsEverSold": 93,
+    "TotalUnitsSoldOnDiscount": 25
+  },
+  {
+    "DiffActualPredicated": -7534.5075,
+    "PID": 25147,
+    "ProductName": "Adkilazz",
+    "RetailPrice": 6292.85,
+    "TotalUnitsEverSold": 123,
+    "TotalUnitsSoldOnDiscount": 9
+  },
+  {
+    "DiffActualPredicated": -8350.6600,
+    "PID": 25277,
+    "ProductName": "Rebanax",
+    "RetailPrice": 8485.50,
+    "TotalUnitsEverSold": 115,
+    "TotalUnitsSoldOnDiscount": 4
+  },
+  {
+    "DiffActualPredicated": -13717.0300,
+    "PID": 25215,
+    "ProductName": "Zeedimower",
+    "RetailPrice": 1315.36,
+    "TotalUnitsEverSold": 107,
+    "TotalUnitsSoldOnDiscount": 27
+  },
+  {
+    "DiffActualPredicated": -14163.6150,
+    "PID": 25245,
+    "ProductName": "Tuprobedan",
+    "RetailPrice": 7233.38,
+    "TotalUnitsEverSold": 95,
+    "TotalUnitsSoldOnDiscount": 15
+  },
+  {
+    "DiffActualPredicated": -22321.7450,
+    "PID": 25034,
+    "ProductName": "Unpickantor",
+    "RetailPrice": 7576.69,
+    "TotalUnitsEverSold": 92,
+    "TotalUnitsSoldOnDiscount": 26
+  },
+  {
+    "DiffActualPredicated": -22765.3125,
+    "PID": 25219,
+    "ProductName": "Tipbanommax",
+    "RetailPrice": 6979.25,
+    "TotalUnitsEverSold": 110,
+    "TotalUnitsSoldOnDiscount": 7
+  },
+  {
+    "DiffActualPredicated": -28276.3675,
+    "PID": 25098,
+    "ProductName": "Trusapupentor",
+    "RetailPrice": 8991.77,
+    "TotalUnitsEverSold": 97,
+    "TotalUnitsSoldOnDiscount": 9
+  },
+  {
+    "DiffActualPredicated": -51491.2450,
+    "PID": 25231,
+    "ProductName": "Thrusapentor",
+    "RetailPrice": 6575.97,
+    "TotalUnitsEverSold": 98,
+    "TotalUnitsSoldOnDiscount": 14
+  }
+]

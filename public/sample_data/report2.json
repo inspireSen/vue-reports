@@ -1,0 +1,176 @@
+[
+  {
+    "AverageRetailPrice": 317.15,
+    "CategoryName": "Air Conditioner",
+    "TotalManufacturers": 836,
+    "TotalProducts": 1701
+  },
+  {
+    "AverageRetailPrice": 305.70,
+    "CategoryName": "Air Purifier",
+    "TotalManufacturers": 842,
+    "TotalProducts": 1703
+  },
+  {
+    "AverageRetailPrice": 302.93,
+    "CategoryName": "Battery",
+    "TotalManufacturers": 826,
+    "TotalProducts": 1696
+  },
+  {
+    "AverageRetailPrice": 298.65,
+    "CategoryName": "Bluray",
+    "TotalManufacturers": 828,
+    "TotalProducts": 1705
+  },
+  {
+    "AverageRetailPrice": 293.90,
+    "CategoryName": "Camera",
+    "TotalManufacturers": 820,
+    "TotalProducts": 1709
+  },
+  {
+    "AverageRetailPrice": 297.73,
+    "CategoryName": "Camera Lens",
+    "TotalManufacturers": 825,
+    "TotalProducts": 1696
+  },
+  {
+    "AverageRetailPrice": 323.80,
+    "CategoryName": "Car Audio",
+    "TotalManufacturers": 841,
+    "TotalProducts": 1720
+  },
+  {
+    "AverageRetailPrice": 308.71,
+    "CategoryName": "CD",
+    "TotalManufacturers": 833,
+    "TotalProducts": 1695
+  },
+  {
+    "AverageRetailPrice": 318.06,
+    "CategoryName": "Computer",
+    "TotalManufacturers": 843,
+    "TotalProducts": 1706
+  },
+  {
+    "AverageRetailPrice": 301.12,
+    "CategoryName": "Dryer",
+    "TotalManufacturers": 825,
+    "TotalProducts": 1693
+  },
+  {
+    "AverageRetailPrice": 287.60,
+    "CategoryName": "DVD",
+    "TotalManufacturers": 814,
+    "TotalProducts": 1708
+  },
+  {
+    "AverageRetailPrice": 325.46,
+    "CategoryName": "Fax",
+    "TotalManufacturers": 843,
+    "TotalProducts": 1715
+  },
+  {
+    "AverageRetailPrice": 312.46,
+    "CategoryName": "GPS",
+    "TotalManufacturers": 836,
+    "TotalProducts": 1700
+  },
+  {
+    "AverageRetailPrice": 310.59,
+    "CategoryName": "Microwave",
+    "TotalManufacturers": 826,
+    "TotalProducts": 1701
+  },
+  {
+    "AverageRetailPrice": 293.94,
+    "CategoryName": "MP3 Player",
+    "TotalManufacturers": 834,
+    "TotalProducts": 1696
+  },
+  {
+    "AverageRetailPrice": 310.34,
+    "CategoryName": "Phone",
+    "TotalManufacturers": 818,
+    "TotalProducts": 1711
+  },
+  {
+    "AverageRetailPrice": 326.84,
+    "CategoryName": "Printer",
+    "TotalManufacturers": 834,
+    "TotalProducts": 1706
+  },
+  {
+    "AverageRetailPrice": 302.69,
+    "CategoryName": "Projector",
+    "TotalManufacturers": 826,
+    "TotalProducts": 1697
+  },
+  {
+    "AverageRetailPrice": 307.66,
+    "CategoryName": "Recording Equipment",
+    "TotalManufacturers": 833,
+    "TotalProducts": 1706
+  },
+  {
+    "AverageRetailPrice": 317.18,
+    "CategoryName": "Refridgerator",
+    "TotalManufacturers": 820,
+    "TotalProducts": 1706
+  },
+  {
+    "AverageRetailPrice": 302.81,
+    "CategoryName": "Satellite Radio",
+    "TotalManufacturers": 833,
+    "TotalProducts": 1710
+  },
+  {
+    "AverageRetailPrice": 320.37,
+    "CategoryName": "Scanner",
+    "TotalManufacturers": 837,
+    "TotalProducts": 1698
+  },
+  {
+    "AverageRetailPrice": 326.45,
+    "CategoryName": "Speaker",
+    "TotalManufacturers": 836,
+    "TotalProducts": 1711
+  },
+  {
+    "AverageRetailPrice": 299.66,
+    "CategoryName": "Tool",
+    "TotalManufacturers": 829,
+    "TotalProducts": 1705
+  },
+  {
+    "AverageRetailPrice": 314.06,
+    "CategoryName": "TV",
+    "TotalManufacturers": 847,
+    "TotalProducts": 1694
+  },
+  {
+    "AverageRetailPrice": 304.22,
+    "CategoryName": "Vacuum Cleaner",
+    "TotalManufacturers": 833,
+    "TotalProducts": 1703
+  },
+  {
+    "AverageRetailPrice": 332.87,
+    "CategoryName": "Video Camera",
+    "TotalManufacturers": 828,
+    "TotalProducts": 1700
+  },
+  {
+    "AverageRetailPrice": 294.72,
+    "CategoryName": "Video Game",
+    "TotalManufacturers": 821,
+    "TotalProducts": 1707
+  },
+  {
+    "AverageRetailPrice": 318.95,
+    "CategoryName": "Washer",
+    "TotalManufacturers": 840,
+    "TotalProducts": 1712
+  }
+]

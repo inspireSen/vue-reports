@@ -1,0 +1,1252 @@
+[
+  {
+    "CityName": "Akron",
+    "Population": 7684915,
+    "State": "MO"
+  },
+  {
+    "CityName": "Akron",
+    "Population": 5947796,
+    "State": "OH"
+  },
+  {
+    "CityName": "Akron",
+    "Population": 3878285,
+    "State": "RI"
+  },
+  {
+    "CityName": "Albuquerque",
+    "Population": 3608365,
+    "State": "NV"
+  },
+  {
+    "CityName": "Albuquerque",
+    "Population": 6610173,
+    "State": "OR"
+  },
+  {
+    "CityName": "Albuquerque",
+    "Population": 4126810,
+    "State": "WV"
+  },
+  {
+    "CityName": "Anaheim",
+    "Population": 6607294,
+    "State": "CA"
+  },
+  {
+    "CityName": "Anaheim",
+    "Population": 2075107,
+    "State": "HI"
+  },
+  {
+    "CityName": "Anaheim",
+    "Population": 5697569,
+    "State": "KS"
+  },
+  {
+    "CityName": "Anchorage",
+    "Population": 6784867,
+    "State": "FL"
+  },
+  {
+    "CityName": "Anchorage",
+    "Population": 5670054,
+    "State": "MO"
+  },
+  {
+    "CityName": "Anchorage",
+    "Population": 1817211,
+    "State": "MT"
+  },
+  {
+    "CityName": "Arlington",
+    "Population": 186497,
+    "State": "CA"
+  },
+  {
+    "CityName": "Arlington",
+    "Population": 8824634,
+    "State": "KS"
+  },
+  {
+    "CityName": "Arlington",
+    "Population": 4590795,
+    "State": "WA"
+  },
+  {
+    "CityName": "Atlanta",
+    "Population": 362177,
+    "State": "AR"
+  },
+  {
+    "CityName": "Atlanta",
+    "Population": 9791703,
+    "State": "MN"
+  },
+  {
+    "CityName": "Atlanta",
+    "Population": 5727249,
+    "State": "TX"
+  },
+  {
+    "CityName": "Aurora",
+    "Population": 6387356,
+    "State": "NY"
+  },
+  {
+    "CityName": "Aurora",
+    "Population": 6606856,
+    "State": "WA"
+  },
+  {
+    "CityName": "Austin",
+    "Population": 11892016,
+    "State": "AR"
+  },
+  {
+    "CityName": "Austin",
+    "Population": 2853640,
+    "State": "TX"
+  },
+  {
+    "CityName": "Austin",
+    "Population": 8950617,
+    "State": "VT"
+  },
+  {
+    "CityName": "Bakersfield",
+    "Population": 2040079,
+    "State": "CA"
+  },
+  {
+    "CityName": "Bakersfield",
+    "Population": 7086815,
+    "State": "KS"
+  },
+  {
+    "CityName": "Baltimore",
+    "Population": 3909086,
+    "State": "NC"
+  },
+  {
+    "CityName": "Baltimore",
+    "Population": 4944371,
+    "State": "VT"
+  },
+  {
+    "CityName": "Baltimore",
+    "Population": 3411447,
+    "State": "WY"
+  },
+  {
+    "CityName": "Baton Rouge",
+    "Population": 8041780,
+    "State": "AZ"
+  },
+  {
+    "CityName": "Baton Rouge",
+    "Population": 982389,
+    "State": "DE"
+  },
+  {
+    "CityName": "Baton Rouge",
+    "Population": 1189996,
+    "State": "GA"
+  },
+  {
+    "CityName": "Birmingham",
+    "Population": 6323271,
+    "State": "TX"
+  },
+  {
+    "CityName": "Birmingham",
+    "Population": 7239195,
+    "State": "VT"
+  },
+  {
+    "CityName": "Birmingham",
+    "Population": 6407747,
+    "State": "WY"
+  },
+  {
+    "CityName": "Boston",
+    "Population": 11235916,
+    "State": "CO"
+  },
+  {
+    "CityName": "Boston",
+    "Population": 9761036,
+    "State": "NV"
+  },
+  {
+    "CityName": "Boston",
+    "Population": 2211765,
+    "State": "WV"
+  },
+  {
+    "CityName": "Buffalo",
+    "Population": 6568145,
+    "State": "AL"
+  },
+  {
+    "CityName": "Buffalo",
+    "Population": 9513968,
+    "State": "IA"
+  },
+  {
+    "CityName": "Charlotte",
+    "Population": 1055095,
+    "State": "CA"
+  },
+  {
+    "CityName": "Charlotte",
+    "Population": 7082890,
+    "State": "NY"
+  },
+  {
+    "CityName": "Charlotte",
+    "Population": 11640843,
+    "State": "WA"
+  },
+  {
+    "CityName": "Chicago",
+    "Population": 2519487,
+    "State": "MI"
+  },
+  {
+    "CityName": "Chicago",
+    "Population": 7223750,
+    "State": "NH"
+  },
+  {
+    "CityName": "Cincinnati",
+    "Population": 5894247,
+    "State": "CO"
+  },
+  {
+    "CityName": "Cincinnati",
+    "Population": 474864,
+    "State": "MA"
+  },
+  {
+    "CityName": "Cincinnati",
+    "Population": 5880905,
+    "State": "WV"
+  },
+  {
+    "CityName": "Cleveland",
+    "Population": 5507665,
+    "State": "CT"
+  },
+  {
+    "CityName": "Cleveland",
+    "Population": 9953124,
+    "State": "IL"
+  },
+  {
+    "CityName": "Cleveland",
+    "Population": 10747084,
+    "State": "OK"
+  },
+  {
+    "CityName": "Colorado",
+    "Population": 2409313,
+    "State": "AZ"
+  },
+  {
+    "CityName": "Colorado",
+    "Population": 4478196,
+    "State": "DE"
+  },
+  {
+    "CityName": "Colorado",
+    "Population": 8013845,
+    "State": "MD"
+  },
+  {
+    "CityName": "Columbus",
+    "Population": 2217539,
+    "State": "ID"
+  },
+  {
+    "CityName": "Columbus",
+    "Population": 970026,
+    "State": "IL"
+  },
+  {
+    "CityName": "Corpus Christi",
+    "Population": 7798000,
+    "State": "IN"
+  },
+  {
+    "CityName": "Corpus Christi",
+    "Population": 11913487,
+    "State": "LA"
+  },
+  {
+    "CityName": "Corpus Christi",
+    "Population": 7966699,
+    "State": "NE"
+  },
+  {
+    "CityName": "Dallas",
+    "Population": 8905844,
+    "State": "CT"
+  },
+  {
+    "CityName": "Dallas",
+    "Population": 8015731,
+    "State": "OK"
+  },
+  {
+    "CityName": "Dallas",
+    "Population": 1267701,
+    "State": "WI"
+  },
+  {
+    "CityName": "Dayton",
+    "Population": 5242806,
+    "State": "IL"
+  },
+  {
+    "CityName": "Dayton",
+    "Population": 7083222,
+    "State": "OK"
+  },
+  {
+    "CityName": "Denver",
+    "Population": 8746205,
+    "State": "NV"
+  },
+  {
+    "CityName": "Denver",
+    "Population": 11761169,
+    "State": "WV"
+  },
+  {
+    "CityName": "Des Moines",
+    "Population": 11838579,
+    "State": "NC"
+  },
+  {
+    "CityName": "Des Moines",
+    "Population": 221583,
+    "State": "OH"
+  },
+  {
+    "CityName": "Des Moines",
+    "Population": 1615094,
+    "State": "RI"
+  },
+  {
+    "CityName": "Detroit",
+    "Population": 6452123,
+    "State": "KY"
+  },
+  {
+    "CityName": "Detroit",
+    "Population": 9377710,
+    "State": "MN"
+  },
+  {
+    "CityName": "Detroit",
+    "Population": 5859113,
+    "State": "VA"
+  },
+  {
+    "CityName": "El Paso",
+    "Population": 9857482,
+    "State": "FL"
+  },
+  {
+    "CityName": "El Paso",
+    "Population": 8384616,
+    "State": "MO"
+  },
+  {
+    "CityName": "El Paso",
+    "Population": 1609323,
+    "State": "OH"
+  },
+  {
+    "CityName": "Fort Wayne",
+    "Population": 6711652,
+    "State": "AZ"
+  },
+  {
+    "CityName": "Fort Wayne",
+    "Population": 5063405,
+    "State": "DE"
+  },
+  {
+    "CityName": "Fort Worth",
+    "Population": 8277959,
+    "State": "CO"
+  },
+  {
+    "CityName": "Fort Worth",
+    "Population": 2926957,
+    "State": "MA"
+  },
+  {
+    "CityName": "Fort Worth",
+    "Population": 1067737,
+    "State": "UT"
+  },
+  {
+    "CityName": "Fremont",
+    "Population": 4567408,
+    "State": "ID"
+  },
+  {
+    "CityName": "Fremont",
+    "Population": 10148986,
+    "State": "PA"
+  },
+  {
+    "CityName": "Fresno",
+    "Population": 8117,
+    "State": "MA"
+  },
+  {
+    "CityName": "Fresno",
+    "Population": 10820299,
+    "State": "UT"
+  },
+  {
+    "CityName": "Garland",
+    "Population": 526447,
+    "State": "IA"
+  },
+  {
+    "CityName": "Garland",
+    "Population": 3528912,
+    "State": "SD"
+  },
+  {
+    "CityName": "Glendale",
+    "Population": 6682429,
+    "State": "CT"
+  },
+  {
+    "CityName": "Glendale",
+    "Population": 6186100,
+    "State": "WI"
+  },
+  {
+    "CityName": "Grand Rapids",
+    "Population": 1293704,
+    "State": "FL"
+  },
+  {
+    "CityName": "Grand Rapids",
+    "Population": 8303138,
+    "State": "MO"
+  },
+  {
+    "CityName": "Grand Rapids",
+    "Population": 5388088,
+    "State": "OH"
+  },
+  {
+    "CityName": "Greensboro",
+    "Population": 7616852,
+    "State": "MO"
+  },
+  {
+    "CityName": "Greensboro",
+    "Population": 106999,
+    "State": "OH"
+  },
+  {
+    "CityName": "Greensboro",
+    "Population": 8379650,
+    "State": "RI"
+  },
+  {
+    "CityName": "Hialeah",
+    "Population": 6777174,
+    "State": "HI"
+  },
+  {
+    "CityName": "Hialeah",
+    "Population": 9384901,
+    "State": "KS"
+  },
+  {
+    "CityName": "Hialeah",
+    "Population": 6903443,
+    "State": "NM"
+  },
+  {
+    "CityName": "Honolulu",
+    "Population": 11804872,
+    "State": "GA"
+  },
+  {
+    "CityName": "Honolulu",
+    "Population": 3451405,
+    "State": "WI"
+  },
+  {
+    "CityName": "Houston",
+    "Population": 1247696,
+    "State": "NJ"
+  },
+  {
+    "CityName": "Houston",
+    "Population": 1117744,
+    "State": "OR"
+  },
+  {
+    "CityName": "Indianapolis",
+    "Population": 5746277,
+    "State": "IN"
+  },
+  {
+    "CityName": "Indianapolis",
+    "Population": 3631974,
+    "State": "MS"
+  },
+  {
+    "CityName": "Indianapolis",
+    "Population": 11698053,
+    "State": "NE"
+  },
+  {
+    "CityName": "Jackson",
+    "Population": 11301894,
+    "State": "AZ"
+  },
+  {
+    "CityName": "Jackson",
+    "Population": 9028542,
+    "State": "MD"
+  },
+  {
+    "CityName": "Jacksonville",
+    "Population": 10133769,
+    "State": "MI"
+  },
+  {
+    "CityName": "Jacksonville",
+    "Population": 11372286,
+    "State": "NH"
+  },
+  {
+    "CityName": "Jacksonville",
+    "Population": 6911804,
+    "State": "TN"
+  },
+  {
+    "CityName": "Jersey",
+    "Population": 2058323,
+    "State": "NC"
+  },
+  {
+    "CityName": "Jersey",
+    "Population": 3635902,
+    "State": "VT"
+  },
+  {
+    "CityName": "Jersey",
+    "Population": 8629505,
+    "State": "WY"
+  },
+  {
+    "CityName": "Kansas",
+    "Population": 10349326,
+    "State": "ME"
+  },
+  {
+    "CityName": "Kansas",
+    "Population": 9927560,
+    "State": "MI"
+  },
+  {
+    "CityName": "Kansas",
+    "Population": 11239032,
+    "State": "NH"
+  },
+  {
+    "CityName": "Las Vegas",
+    "Population": 10190906,
+    "State": "AL"
+  },
+  {
+    "CityName": "Las Vegas",
+    "Population": 4037431,
+    "State": "ME"
+  },
+  {
+    "CityName": "Las Vegas",
+    "Population": 4891719,
+    "State": "NH"
+  },
+  {
+    "CityName": "Lincoln",
+    "Population": 5878938,
+    "State": "AR"
+  },
+  {
+    "CityName": "Lincoln",
+    "Population": 10497740,
+    "State": "MN"
+  },
+  {
+    "CityName": "Lincoln",
+    "Population": 9334504,
+    "State": "TX"
+  },
+  {
+    "CityName": "Little Rock",
+    "Population": 11344715,
+    "State": "AR"
+  },
+  {
+    "CityName": "Little Rock",
+    "Population": 2785238,
+    "State": "MN"
+  },
+  {
+    "CityName": "Little Rock",
+    "Population": 9000407,
+    "State": "VA"
+  },
+  {
+    "CityName": "Long Beach",
+    "Population": 8263969,
+    "State": "MI"
+  },
+  {
+    "CityName": "Long Beach",
+    "Population": 7359630,
+    "State": "TN"
+  },
+  {
+    "CityName": "Los Angeles",
+    "Population": 9458934,
+    "State": "HI"
+  },
+  {
+    "CityName": "Los Angeles",
+    "Population": 1020310,
+    "State": "KS"
+  },
+  {
+    "CityName": "Louisville",
+    "Population": 9425982,
+    "State": "AK"
+  },
+  {
+    "CityName": "Louisville",
+    "Population": 683604,
+    "State": "ID"
+  },
+  {
+    "CityName": "Louisville",
+    "Population": 6144849,
+    "State": "PA"
+  },
+  {
+    "CityName": "Lubbock",
+    "Population": 9938640,
+    "State": "ID"
+  },
+  {
+    "CityName": "Lubbock",
+    "Population": 7457644,
+    "State": "IL"
+  },
+  {
+    "CityName": "Lubbock",
+    "Population": 10361209,
+    "State": "PA"
+  },
+  {
+    "CityName": "Madison",
+    "Population": 3809269,
+    "State": "IA"
+  },
+  {
+    "CityName": "Madison",
+    "Population": 7693110,
+    "State": "SC"
+  },
+  {
+    "CityName": "Madison",
+    "Population": 122326,
+    "State": "SD"
+  },
+  {
+    "CityName": "Memphis",
+    "Population": 10955694,
+    "State": "FL"
+  },
+  {
+    "CityName": "Memphis",
+    "Population": 6614192,
+    "State": "MT"
+  },
+  {
+    "CityName": "Mesa",
+    "Population": 9259541,
+    "State": "AK"
+  },
+  {
+    "CityName": "Mesa",
+    "Population": 3525057,
+    "State": "ND"
+  },
+  {
+    "CityName": "Miami",
+    "Population": 2867463,
+    "State": "MT"
+  },
+  {
+    "CityName": "Miami",
+    "Population": 893856,
+    "State": "NY"
+  },
+  {
+    "CityName": "Miami",
+    "Population": 10058645,
+    "State": "WA"
+  },
+  {
+    "CityName": "Milwaukee",
+    "Population": 8177407,
+    "State": "MT"
+  },
+  {
+    "CityName": "Milwaukee",
+    "Population": 2446782,
+    "State": "NY"
+  },
+  {
+    "CityName": "Minneapolis",
+    "Population": 6588284,
+    "State": "NJ"
+  },
+  {
+    "CityName": "Minneapolis",
+    "Population": 1285783,
+    "State": "NV"
+  },
+  {
+    "CityName": "Minneapolis",
+    "Population": 1559327,
+    "State": "OR"
+  },
+  {
+    "CityName": "Mobile",
+    "Population": 655603,
+    "State": "NC"
+  },
+  {
+    "CityName": "Mobile",
+    "Population": 9790261,
+    "State": "OH"
+  },
+  {
+    "CityName": "Mobile",
+    "Population": 4854095,
+    "State": "RI"
+  },
+  {
+    "CityName": "Montgomery",
+    "Population": 7420175,
+    "State": "KY"
+  },
+  {
+    "CityName": "Montgomery",
+    "Population": 6239429,
+    "State": "SC"
+  },
+  {
+    "CityName": "Montgomery",
+    "Population": 11172589,
+    "State": "VA"
+  },
+  {
+    "CityName": "Nashville",
+    "Population": 6084440,
+    "State": "IN"
+  },
+  {
+    "CityName": "Nashville",
+    "Population": 3985400,
+    "State": "LA"
+  },
+  {
+    "CityName": "Nashville",
+    "Population": 9753958,
+    "State": "UT"
+  },
+  {
+    "CityName": "New Orleans",
+    "Population": 10238768,
+    "State": "IN"
+  },
+  {
+    "CityName": "New Orleans",
+    "Population": 6989138,
+    "State": "LA"
+  },
+  {
+    "CityName": "New York",
+    "Population": 6259301,
+    "State": "AR"
+  },
+  {
+    "CityName": "New York",
+    "Population": 2901954,
+    "State": "TX"
+  },
+  {
+    "CityName": "New York",
+    "Population": 9681671,
+    "State": "VT"
+  },
+  {
+    "CityName": "Newark",
+    "Population": 11606155,
+    "State": "DE"
+  },
+  {
+    "CityName": "Newark",
+    "Population": 6254424,
+    "State": "GA"
+  },
+  {
+    "CityName": "Norfolk",
+    "Population": 8985009,
+    "State": "FL"
+  },
+  {
+    "CityName": "Norfolk",
+    "Population": 5256933,
+    "State": "MT"
+  },
+  {
+    "CityName": "Norfolk",
+    "Population": 10795717,
+    "State": "NY"
+  },
+  {
+    "CityName": "Oakland",
+    "Population": 7169735,
+    "State": "ME"
+  },
+  {
+    "CityName": "Oakland",
+    "Population": 9444807,
+    "State": "NH"
+  },
+  {
+    "CityName": "Oklahoma",
+    "Population": 9889246,
+    "State": "AK"
+  },
+  {
+    "CityName": "Oklahoma",
+    "Population": 8640549,
+    "State": "ND"
+  },
+  {
+    "CityName": "Oklahoma",
+    "Population": 6526590,
+    "State": "NM"
+  },
+  {
+    "CityName": "Omaha",
+    "Population": 1994293,
+    "State": "AZ"
+  },
+  {
+    "CityName": "Omaha",
+    "Population": 5500143,
+    "State": "MD"
+  },
+  {
+    "CityName": "Omaha",
+    "Population": 7524170,
+    "State": "MS"
+  },
+  {
+    "CityName": "Philadelphia",
+    "Population": 6389592,
+    "State": "FL"
+  },
+  {
+    "CityName": "Philadelphia",
+    "Population": 3840977,
+    "State": "MO"
+  },
+  {
+    "CityName": "Phoenix",
+    "Population": 164250,
+    "State": "DE"
+  },
+  {
+    "CityName": "Phoenix",
+    "Population": 9021855,
+    "State": "GA"
+  },
+  {
+    "CityName": "Phoenix",
+    "Population": 1105394,
+    "State": "WI"
+  },
+  {
+    "CityName": "Pittsburgh",
+    "Population": 1709398,
+    "State": "CO"
+  },
+  {
+    "CityName": "Pittsburgh",
+    "Population": 4898046,
+    "State": "WV"
+  },
+  {
+    "CityName": "Portland",
+    "Population": 5932588,
+    "State": "IN"
+  },
+  {
+    "CityName": "Portland",
+    "Population": 4812844,
+    "State": "NE"
+  },
+  {
+    "CityName": "Raleigh",
+    "Population": 1703543,
+    "State": "NJ"
+  },
+  {
+    "CityName": "Raleigh",
+    "Population": 339737,
+    "State": "OR"
+  },
+  {
+    "CityName": "Raleigh",
+    "Population": 8307760,
+    "State": "TN"
+  },
+  {
+    "CityName": "Richmond",
+    "Population": 6544852,
+    "State": "AK"
+  },
+  {
+    "CityName": "Richmond",
+    "Population": 5705182,
+    "State": "ND"
+  },
+  {
+    "CityName": "Richmond",
+    "Population": 9488065,
+    "State": "PA"
+  },
+  {
+    "CityName": "Riverside",
+    "Population": 1681261,
+    "State": "NC"
+  },
+  {
+    "CityName": "Riverside",
+    "Population": 8563087,
+    "State": "RI"
+  },
+  {
+    "CityName": "Riverside",
+    "Population": 11949994,
+    "State": "WY"
+  },
+  {
+    "CityName": "Rochester",
+    "Population": 7234299,
+    "State": "NV"
+  },
+  {
+    "CityName": "Rochester",
+    "Population": 3486778,
+    "State": "OR"
+  },
+  {
+    "CityName": "Sacramento",
+    "Population": 5513783,
+    "State": "CA"
+  },
+  {
+    "CityName": "Sacramento",
+    "Population": 9567383,
+    "State": "WA"
+  },
+  {
+    "CityName": "San Antonio",
+    "Population": 4968774,
+    "State": "MD"
+  },
+  {
+    "CityName": "San Antonio",
+    "Population": 10495370,
+    "State": "MS"
+  },
+  {
+    "CityName": "San Diego",
+    "Population": 194470,
+    "State": "AL"
+  },
+  {
+    "CityName": "San Diego",
+    "Population": 817541,
+    "State": "IA"
+  },
+  {
+    "CityName": "San Diego",
+    "Population": 6839401,
+    "State": "SD"
+  },
+  {
+    "CityName": "San Francisco",
+    "Population": 7820706,
+    "State": "MD"
+  },
+  {
+    "CityName": "San Francisco",
+    "Population": 2791355,
+    "State": "MS"
+  },
+  {
+    "CityName": "San Francisco",
+    "Population": 8303440,
+    "State": "NE"
+  },
+  {
+    "CityName": "San Jose",
+    "Population": 11877303,
+    "State": "AL"
+  },
+  {
+    "CityName": "San Jose",
+    "Population": 7025397,
+    "State": "IA"
+  },
+  {
+    "CityName": "San Jose",
+    "Population": 8713838,
+    "State": "ME"
+  },
+  {
+    "CityName": "Santa Ana",
+    "Population": 7542170,
+    "State": "LA"
+  },
+  {
+    "CityName": "Santa Ana",
+    "Population": 11641031,
+    "State": "UT"
+  },
+  {
+    "CityName": "Seattle",
+    "Population": 6342350,
+    "State": "HI"
+  },
+  {
+    "CityName": "Seattle",
+    "Population": 8919255,
+    "State": "ND"
+  },
+  {
+    "CityName": "Seattle",
+    "Population": 4576392,
+    "State": "NM"
+  },
+  {
+    "CityName": "Shreveport",
+    "Population": 6768568,
+    "State": "TX"
+  },
+  {
+    "CityName": "Shreveport",
+    "Population": 7695528,
+    "State": "VT"
+  },
+  {
+    "CityName": "Shreveport",
+    "Population": 2420369,
+    "State": "WY"
+  },
+  {
+    "CityName": "Spokane",
+    "Population": 636286,
+    "State": "NJ"
+  },
+  {
+    "CityName": "Spokane",
+    "Population": 4281152,
+    "State": "TN"
+  },
+  {
+    "CityName": "St. Louis",
+    "Population": 7594582,
+    "State": "NC"
+  },
+  {
+    "CityName": "St. Louis",
+    "Population": 595768,
+    "State": "RI"
+  },
+  {
+    "CityName": "St. Louis",
+    "Population": 145689,
+    "State": "WY"
+  },
+  {
+    "CityName": "St. Paul",
+    "Population": 5161245,
+    "State": "CT"
+  },
+  {
+    "CityName": "St. Paul",
+    "Population": 4562887,
+    "State": "GA"
+  },
+  {
+    "CityName": "St. Paul",
+    "Population": 11310912,
+    "State": "WI"
+  },
+  {
+    "CityName": "St. Petersburg",
+    "Population": 4843309,
+    "State": "CT"
+  },
+  {
+    "CityName": "St. Petersburg",
+    "Population": 5367444,
+    "State": "OK"
+  },
+  {
+    "CityName": "Stockton",
+    "Population": 11526559,
+    "State": "ND"
+  },
+  {
+    "CityName": "Stockton",
+    "Population": 8214688,
+    "State": "NM"
+  },
+  {
+    "CityName": "Tacoma",
+    "Population": 4181984,
+    "State": "ID"
+  },
+  {
+    "CityName": "Tacoma",
+    "Population": 10845187,
+    "State": "IL"
+  },
+  {
+    "CityName": "Tacoma",
+    "Population": 6965826,
+    "State": "OK"
+  },
+  {
+    "CityName": "Tampa",
+    "Population": 9296125,
+    "State": "MS"
+  },
+  {
+    "CityName": "Tampa",
+    "Population": 8901528,
+    "State": "NE"
+  },
+  {
+    "CityName": "Toledo",
+    "Population": 6662145,
+    "State": "KY"
+  },
+  {
+    "CityName": "Toledo",
+    "Population": 7049801,
+    "State": "SC"
+  },
+  {
+    "CityName": "Toledo",
+    "Population": 8377152,
+    "State": "SD"
+  },
+  {
+    "CityName": "Tucson",
+    "Population": 8142328,
+    "State": "MI"
+  },
+  {
+    "CityName": "Tucson",
+    "Population": 2745552,
+    "State": "NJ"
+  },
+  {
+    "CityName": "Tucson",
+    "Population": 11958750,
+    "State": "TN"
+  },
+  {
+    "CityName": "Tulsa",
+    "Population": 8783024,
+    "State": "HI"
+  },
+  {
+    "CityName": "Tulsa",
+    "Population": 8908456,
+    "State": "NM"
+  },
+  {
+    "CityName": "Virginia Beach",
+    "Population": 5821114,
+    "State": "CO"
+  },
+  {
+    "CityName": "Virginia Beach",
+    "Population": 5134235,
+    "State": "MA"
+  },
+  {
+    "CityName": "Washington",
+    "Population": 7089351,
+    "State": "AL"
+  },
+  {
+    "CityName": "Washington",
+    "Population": 1384044,
+    "State": "ME"
+  },
+  {
+    "CityName": "Wichita",
+    "Population": 6134430,
+    "State": "AK"
+  },
+  {
+    "CityName": "Wichita",
+    "Population": 11803323,
+    "State": "PA"
+  },
+  {
+    "CityName": "Yonkers",
+    "Population": 10868202,
+    "State": "LA"
+  },
+  {
+    "CityName": "Yonkers",
+    "Population": 8672133,
+    "State": "MA"
+  },
+  {
+    "CityName": "Yonkers",
+    "Population": 116283,
+    "State": "UT"
+  }
+]

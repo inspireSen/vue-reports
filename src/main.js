@@ -13,7 +13,8 @@ Vue.config.productionTip = false
 Vue.use({
   install(Vue) {
     Vue.prototype.$api = axios.create({
-      baseURL: 'http://127.0.0.1:5000/api/'
+      // baseURL: 'http://127.0.0.1:5000/api/'
+      baseURL: `${window.location.protocol}//${window.location.hostname}:${window.location.port}/sample_data/`
     })
   }
 })

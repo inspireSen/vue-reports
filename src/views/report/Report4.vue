@@ -65,7 +65,7 @@ export default {
 
   created() {
     this.$api
-      .get("report4/states")
+      .get("report4/states.json")
       .then((resp) => {
         this.states = resp.data;
       })

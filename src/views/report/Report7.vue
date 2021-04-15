@@ -59,7 +59,7 @@ export default {
   created() {
     this.loading = true;
     this.$api
-      .get("report7")
+      .get("report7.json")
       .then((resp) => {
         this.dataSet = resp.data;
       })

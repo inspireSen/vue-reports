@@ -83,7 +83,7 @@ export default {
 
   created() {
     this.$api
-      .get("stats")
+      .get("stats.json")
       .then((resp) => {
         this.stats = resp.data;
       })
