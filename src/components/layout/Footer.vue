@@ -2,10 +2,10 @@
   <footer class="footer">
     <div class="has-text-centered">
       <div>
-        Created by <strong>Team011</strong> for CS DB6400 at Georgia Tech.
+        Created By Jason Chen
       </div>
       <a
-        href="https://github.gatech.edu/cs6400-2020-03-fall/cs6400-2020-03-Team011"
+        href="https://github.com/inspireSen/vue-reports"
         >Source Code</a
       >
     </div>
