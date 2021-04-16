@@ -22,8 +22,7 @@ npm run lint
 
 ### Deployment
 ```
-Reference: https://levelup.gitconnected.com/how-to-deploy-your-vue-app-to-github-pages-897136799e19
-npm run deploy
+Deployment is automatically triggered by commit, static files in dist folder gets deployed to Render site https://data-warehouse-reports.onrender.com
 ```
 
 ### Customize configuration
