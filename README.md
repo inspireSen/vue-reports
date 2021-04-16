@@ -20,5 +20,11 @@ npm run build
 npm run lint
 ```
 
+### Deployment
+```
+Reference: https://levelup.gitconnected.com/how-to-deploy-your-vue-app-to-github-pages-897136799e19
+npm run deploy
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
